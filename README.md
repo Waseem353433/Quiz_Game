@@ -1,2 +1,2 @@
 # Quiz_Game
-This repository include only Quiz_Game code
+This is my Second semester Project.
