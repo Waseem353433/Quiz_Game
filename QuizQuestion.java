@@ -1,5 +1,3 @@
-package ClassesOfProject.quiz_question;
-
 public class QuizQuestion {
     private int id;
     private String question;

@@ -1,4 +1,3 @@
-package ClassesOfProject.quiz_question;
 import java.sql.*;
 import java.util.*;
 
