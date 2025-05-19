@@ -1,5 +1,3 @@
-package ClassesOfProject.quiz_question;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
